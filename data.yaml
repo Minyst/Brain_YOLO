@@ -1,0 +1,5 @@
+train: /content/Brain_YOLO/train/images
+val: /content/Brain_YOLO/val/images
+test: /content/Brain_YOLO/test/images
+nc: 1
+names: ['tumor']
